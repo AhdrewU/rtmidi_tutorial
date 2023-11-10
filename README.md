@@ -13,4 +13,5 @@ pip install -r requirements.txt
 
 ```
 python music.py
+python music_random.py
 ```
